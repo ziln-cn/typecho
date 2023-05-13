@@ -1,0 +1,2384 @@
+{
+	"颜文字": [
+		{ "icon": "|´・ω・)ノ", "data": "|´・ω・)ノ" },
+		{ "icon": "ヾ(≧∇≦*)ゝ", "data": "ヾ(≧∇≦*)ゝ" },
+		{ "icon": "(☆ω☆)", "data": "(☆ω☆)" },
+		{ "icon": "（╯‵□′）╯︵┴─┴", "data": "（╯‵□′）╯︵┴─┴" },
+		{ "icon": "￣﹃￣", "data": "￣﹃￣" },
+		{ "icon": "(/ω＼)", "data": "(/ω＼)" },
+		{ "icon": "∠( ᐛ 」∠)＿", "data": "∠( ᐛ 」∠)＿" },
+		{ "icon": "(๑•̀ㅁ•́ฅ)", "data": "(๑•̀ㅁ•́ฅ)" },
+		{ "icon": "→_→", "data": "→_→" },
+		{ "icon": "୧(๑•̀⌄•́๑)૭", "data": "୧(๑•̀⌄•́๑)૭" },
+		{ "icon": "٩(ˊᗜˋ*)و", "data": "٩(ˊᗜˋ*)و" },
+		{ "icon": "(ノ°ο°)ノ", "data": "(ノ°ο°)ノ" },
+		{ "icon": "(´இ皿இ｀)", "data": "(´இ皿இ｀)" },
+		{ "icon": "⌇●﹏●⌇", "data": "⌇●﹏●⌇" },
+		{ "icon": "(ฅ´ω`ฅ)", "data": "(ฅ´ω`ฅ)" },
+		{ "icon": "(╯°A°)╯︵○○○", "data": "(╯°A°)╯︵○○○" },
+		{ "icon": "φ(￣∇￣o)", "data": "φ(￣∇￣o)" },
+		{ "icon": "ヾ(´･ ･｀｡)ノ\"", "data": "ヾ(´･ ･｀｡)ノ\"" },
+		{ "icon": "( ง ᵒ̌皿ᵒ̌)ง⁼³₌₃", "data": "( ง ᵒ̌皿ᵒ̌)ง⁼³₌₃" },
+		{ "icon": "(ó﹏ò｡)", "data": "(ó﹏ò｡)" },
+		{ "icon": "Σ(っ °Д °;)っ", "data": "Σ(っ °Д °;)っ" },
+		{ "icon": "( ,,´･ω･)ﾉ\"(´っω･｀｡)", "data": "( ,,´･ω･)ﾉ\"(´っω･｀｡)" },
+		{ "icon": "╮(╯▽╰)╭ ", "data": "╮(╯▽╰)╭ " },
+		{ "icon": "o(*////▽////*)q ", "data": "o(*////▽////*)q " },
+		{ "icon": "＞﹏＜", "data": "＞﹏＜" },
+		{ "icon": "( ๑´•ω•) \"(ㆆᴗㆆ)", "data": "( ๑´•ω•) \"(ㆆᴗㆆ)" },
+		{ "icon": "(｡•ˇ‸ˇ•｡)", "data": "(｡•ˇ‸ˇ•｡)" }
+	],
+	"Heo": [
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/再见.png",
+			"data": "@heo(1)",
+			"text": "heo-再见"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/呲牙笑.png",
+			"data": "@heo(2)",
+			"text": "heo-呲牙笑"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/微笑.png",
+			"data": "@heo(3)",
+			"text": "heo-微笑"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/亲亲.png",
+			"data": "@heo(4)",
+			"text": "heo-亲亲"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/愤怒.png",
+			"data": "@heo(5)",
+			"text": "heo-愤怒"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/惊吓.png",
+			"data": "@heo(6)",
+			"text": "heo-惊吓"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/尴尬.png",
+			"data": "@heo(7)",
+			"text": "heo-尴尬"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/捂嘴笑.png",
+			"data": "@heo(8)",
+			"text": "heo-捂嘴笑"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/捂脸.png",
+			"data": "@heo(9)",
+			"text": "heo-捂脸"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/生病.png",
+			"data": "@heo(10)",
+			"text": "heo-生病"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/绿帽.png",
+			"data": "@heo(11)",
+			"text": "heo-绿帽"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/鼓掌.png",
+			"data": "@heo(12)",
+			"text": "heo-鼓掌"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/抠鼻.png",
+			"data": "@heo(13)",
+			"text": "heo-抠鼻"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/感动.png",
+			"data": "@heo(14)",
+			"text": "heo-感动"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/吐血.png",
+			"data": "@heo(15)",
+			"text": "heo-吐血"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/鬼脸.png",
+			"data": "@heo(16)",
+			"text": "heo-鬼脸"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/擦汗.png",
+			"data": "@heo(17)",
+			"text": "heo-擦汗"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/惊讶.png",
+			"data": "@heo(18)",
+			"text": "heo-惊讶"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/恶心.png",
+			"data": "@heo(19)",
+			"text": "heo-恶心"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/禁言.png",
+			"data": "@heo(20)",
+			"text": "heo-禁言"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/睡觉.png",
+			"data": "@heo(21)",
+			"text": "heo-睡觉"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/笑哭.png",
+			"data": "@heo(22)",
+			"text": "heo-笑哭"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/思考.png",
+			"data": "@heo(23)",
+			"text": "heo-思考"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/疑问.png",
+			"data": "@heo(24)",
+			"text": "heo-疑问"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/奋斗.png",
+			"data": "@heo(25)",
+			"text": "heo-奋斗"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/耍酷.png",
+			"data": "@heo(26)",
+			"text": "heo-耍酷"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/吵架.png",
+			"data": "@heo(27)",
+			"text": "heo-吵架"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/眩晕.png",
+			"data": "@heo(28)",
+			"text": "heo-眩晕"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/哭泣.png",
+			"data": "@heo(29)",
+			"text": "heo-哭泣"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/开心.png",
+			"data": "@heo(30)",
+			"text": "heo-开心"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/害羞.png",
+			"data": "@heo(31)",
+			"text": "heo-害羞"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/喜欢.png",
+			"data": "@heo(32)",
+			"text": "heo-喜欢"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/烦恼.png",
+			"data": "@heo(33)",
+			"text": "heo-烦恼"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/爆炸.png",
+			"data": "@heo(34)",
+			"text": "heo-爆炸"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/熬夜.png",
+			"data": "@heo(35)",
+			"text": "heo-熬夜"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/吃瓜.png",
+			"data": "@heo(36)",
+			"text": "heo-吃瓜"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/阴险.png",
+			"data": "@heo(37)",
+			"text": "heo-阴险"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/狗头.png",
+			"data": "@heo(38)",
+			"text": "heo-狗头"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/滑稽.png",
+			"data": "@heo(39)",
+			"text": "heo-滑稽"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/被打.png",
+			"data": "@heo(40)",
+			"text": "heo-被打"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/哈士奇.png",
+			"data": "@heo(41)",
+			"text": "heo-哈士奇"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/大笑.png",
+			"data": "@heo(42)",
+			"text": "heo-大笑"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/加班.png",
+			"data": "@heo(43)",
+			"text": "heo-加班"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/唱歌.png",
+			"data": "@heo(44)",
+			"text": "heo-唱歌"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/纠结.png",
+			"data": "@heo(45)",
+			"text": "heo-纠结"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/发红包.png",
+			"data": "@heo(46)",
+			"text": "heo-发红包"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/送福.png",
+			"data": "@heo(47)",
+			"text": "heo-送福"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/牛年进宝.png",
+			"data": "@heo(48)",
+			"text": "heo-牛年进宝"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/狗头围脖.png",
+			"data": "@heo(49)",
+			"text": "heo-狗头围脖"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/狗头花.png",
+			"data": "@heo(50)",
+			"text": "heo-狗头花"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/狗头草.png",
+			"data": "@heo(51)",
+			"text": "heo-狗头草"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/头秃.png",
+			"data": "@heo(52)",
+			"text": "heo-头秃"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/狗头胖次.png",
+			"data": "@heo(53)",
+			"text": "heo-狗头胖次"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/我看好你.png",
+			"data": "@heo(54)",
+			"text": "heo-我看好你"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/好的.png",
+			"data": "@heo(55)",
+			"text": "heo-好的"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/好奇.png",
+			"data": "@heo(56)",
+			"text": "heo-好奇"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/偷偷看.png",
+			"data": "@heo(57)",
+			"text": "heo-偷偷看"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/危险.png",
+			"data": "@heo(58)",
+			"text": "heo-危险"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/小丑.png",
+			"data": "@heo(59)",
+			"text": "heo-小丑"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/引起不适.png",
+			"data": "@heo(60)",
+			"text": "heo-引起不适"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/滑稽喝水.png",
+			"data": "@heo(61)",
+			"text": "heo-滑稽喝水"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/熊猫.png",
+			"data": "@heo(62)",
+			"text": "heo-熊猫"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/熊猫唱歌.png",
+			"data": "@heo(63)",
+			"text": "heo-熊猫唱歌"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/打牌.png",
+			"data": "@heo(64)",
+			"text": "heo-打牌"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/哈士奇失去意识.png",
+			"data": "@heo(65)",
+			"text": "heo-哈士奇失去意识"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/应援.png",
+			"data": "@heo(66)",
+			"text": "heo-应援"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/熊猫喜欢.png",
+			"data": "@heo(67)",
+			"text": "heo-熊猫喜欢"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/疼痛.png",
+			"data": "@heo(68)",
+			"text": "heo-疼痛"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/勉强笑.png",
+			"data": "@heo(69)",
+			"text": "heo-勉强笑"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/看穿一切.png",
+			"data": "@heo(70)",
+			"text": "heo-看穿一切"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/滑稽狂汗.png",
+			"data": "@heo(71)",
+			"text": "heo-滑稽狂汗"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/不好意思.png",
+			"data": "@heo(72)",
+			"text": "heo-不好意思"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/菜狗.png",
+			"data": "@heo(73)",
+			"text": "heo-菜狗"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/难以置信.png",
+			"data": "@heo(74)",
+			"text": "heo-难以置信"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/滑稽被子.png",
+			"data": "@heo(75)",
+			"text": "heo-滑稽被子"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/月饼.png",
+			"data": "@heo(76)",
+			"text": "heo-月饼"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/倚墙笑.png",
+			"data": "@heo(77)",
+			"text": "heo-倚墙笑"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/出家人.png",
+			"data": "@heo(78)",
+			"text": "heo-出家人"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/菜狗花.png",
+			"data": "@heo(79)",
+			"text": "heo-菜狗花"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/黑线.png",
+			"data": "@heo(80)",
+			"text": "heo-黑线"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/呦吼.png",
+			"data": "@heo(81)",
+			"text": "heo-呦吼"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/扶额.png",
+			"data": "@heo(82)",
+			"text": "heo-扶额"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/打咩.png",
+			"data": "@heo(83)",
+			"text": "heo-打咩"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/有没有搞错.png",
+			"data": "@heo(84)",
+			"text": "heo-有没有搞错"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/哈士奇失望.png",
+			"data": "@heo(哈士奇失望)",
+			"text": "heo-哈士奇失望"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/失望.png",
+			"data": "@heo(失望)",
+			"text": "heo-失望"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/手机相机.png",
+			"data": "@heo(手机相机)",
+			"text": "heo-手机相机"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/熊猫失望.png",
+			"data": "@heo(熊猫失望)",
+			"text": "heo-熊猫失望"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/狗头失望.png",
+			"data": "@heo(狗头失望)",
+			"text": "heo-狗头失望"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/送花.png",
+			"data": "@heo(送花)",
+			"text": "heo-送花"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/LPL.png",
+			"data": "@heo(LPL)",
+			"text": "heo-LPL"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/吃手.png",
+			"data": "@heo(吃手)",
+			"text": "heo-吃手"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/嘿哈.png",
+			"data": "@heo(嘿哈)",
+			"text": "heo-嘿哈"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/抬眼镜.png",
+			"data": "@heo(抬眼镜)",
+			"text": "heo-抬眼镜"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/泪奔.png",
+			"data": "@heo(泪奔)",
+			"text": "heo-泪奔"
+		},
+		{
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/heo/猪头.png",
+			"data": "@heo(猪头)",
+			"text": "heo-猪头"
+		}
+	],
+	"趣图": [
+		{
+			"data": "@qutu-[1]",
+			"text": "qutu-1",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_1.webp"
+		},
+		{
+			"data": "@qutu-[2]",
+			"text": "qutu-2",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_2.webp"
+		},
+		{
+			"data": "@qutu-[3]",
+			"text": "qutu-3",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_3.webp"
+		},
+		{
+			"data": "@qutu-[4]",
+			"text": "qutu-4",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_4.webp"
+		},
+		{
+			"data": "@qutu-[5]",
+			"text": "qutu-5",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_5.webp"
+		},
+		{
+			"data": "@qutu-[6]",
+			"text": "qutu-6",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_6.webp"
+		},
+		{
+			"data": "@qutu-[7]",
+			"text": "qutu-7",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_7.webp"
+		},
+		{
+			"data": "@qutu-[8]",
+			"text": "qutu-8",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_8.webp"
+		},
+		{
+			"data": "@qutu-[9]",
+			"text": "qutu-9",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_9.webp"
+		},
+		{
+			"data": "@qutu-[10]",
+			"text": "qutu-10",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_10.webp"
+		},
+		{
+			"data": "@qutu-[11]",
+			"text": "qutu-11",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_11.webp"
+		},
+		{
+			"data": "@qutu-[12]",
+			"text": "qutu-12",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_12.webp"
+		},
+		{
+			"data": "@qutu-[13]",
+			"text": "qutu-13",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_13.webp"
+		},
+		{
+			"data": "@qutu-[14]",
+			"text": "qutu-14",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_14.webp"
+		},
+		{
+			"data": "@qutu-[15]",
+			"text": "qutu-15",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_15.webp"
+		},
+		{
+			"data": "@qutu-[16]",
+			"text": "qutu-16",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_16.webp"
+		},
+		{
+			"data": "@qutu-[17]",
+			"text": "qutu-17",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_17.webp"
+		},
+		{
+			"data": "@qutu-[18]",
+			"text": "qutu-18",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_18.webp"
+		},
+		{
+			"data": "@qutu-[19]",
+			"text": "qutu-19",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_19.webp"
+		},
+		{
+			"data": "@qutu-[20]",
+			"text": "qutu-20",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_20.webp"
+		},
+		{
+			"data": "@qutu-[21]",
+			"text": "qutu-21",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_21.webp"
+		},
+		{
+			"data": "@qutu-[22]",
+			"text": "qutu-22",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_22.webp"
+		},
+		{
+			"data": "@qutu-[23]",
+			"text": "qutu-23",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_23.webp"
+		},
+		{
+			"data": "@qutu-[24]",
+			"text": "qutu-24",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_24.webp"
+		},
+		{
+			"data": "@qutu-[25]",
+			"text": "qutu-25",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_25.webp"
+		},
+		{
+			"data": "@qutu-[26]",
+			"text": "qutu-26",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_26.webp"
+		},
+		{
+			"data": "@qutu-[27]",
+			"text": "qutu-27",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_27.webp"
+		},
+		{
+			"data": "@qutu-[28]",
+			"text": "qutu-28",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_28.webp"
+		},
+		{
+			"data": "@qutu-[29]",
+			"text": "qutu-29",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_29.webp"
+		},
+		{
+			"data": "@qutu-[30]",
+			"text": "qutu-30",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_30.webp"
+		},
+		{
+			"data": "@qutu-[31]",
+			"text": "qutu-31",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_31.webp"
+		},
+		{
+			"data": "@qutu-[32]",
+			"text": "qutu-32",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_32.webp"
+		},
+		{
+			"data": "@qutu-[33]",
+			"text": "qutu-33",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_33.webp"
+		},
+		{
+			"data": "@qutu-[34]",
+			"text": "qutu-34",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_34.webp"
+		},
+		{
+			"data": "@qutu-[35]",
+			"text": "qutu-35",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_35.webp"
+		},
+		{
+			"data": "@qutu-[36]",
+			"text": "qutu-36",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_36.webp"
+		},
+		{
+			"data": "@qutu-[37]",
+			"text": "qutu-37",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_37.webp"
+		},
+		{
+			"data": "@qutu-[38]",
+			"text": "qutu-38",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_38.webp"
+		},
+		{
+			"data": "@qutu-[39]",
+			"text": "qutu-39",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_39.webp"
+		},
+		{
+			"data": "@qutu-[40]",
+			"text": "qutu-40",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_40.webp"
+		},
+		{
+			"data": "@qutu-[41]",
+			"text": "qutu-41",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_41.webp"
+		},
+		{
+			"data": "@qutu-[42]",
+			"text": "qutu-42",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_42.webp"
+		},
+		{
+			"data": "@qutu-[43]",
+			"text": "qutu-43",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_43.webp"
+		},
+		{
+			"data": "@qutu-[44]",
+			"text": "qutu-44",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_44.webp"
+		},
+		{
+			"data": "@qutu-[45]",
+			"text": "qutu-45",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_45.webp"
+		},
+		{
+			"data": "@qutu-[46]",
+			"text": "qutu-46",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_46.webp"
+		},
+		{
+			"data": "@qutu-[47]",
+			"text": "qutu-47",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_47.webp"
+		},
+		{
+			"data": "@qutu-[48]",
+			"text": "qutu-48",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_48.webp"
+		},
+		{
+			"data": "@qutu-[49]",
+			"text": "qutu-49",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_49.webp"
+		},
+		{
+			"data": "@qutu-[50]",
+			"text": "qutu-50",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_50.webp"
+		},
+		{
+			"data": "@qutu-[51]",
+			"text": "qutu-51",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_51.webp"
+		},
+		{
+			"data": "@qutu-[52]",
+			"text": "qutu-52",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_52.webp"
+		},
+		{
+			"data": "@qutu-[53]",
+			"text": "qutu-53",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_53.webp"
+		},
+		{
+			"data": "@qutu-[54]",
+			"text": "qutu-54",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_54.webp"
+		},
+		{
+			"data": "@qutu-[55]",
+			"text": "qutu-55",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_55.webp"
+		},
+		{
+			"data": "@qutu-[56]",
+			"text": "qutu-56",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_56.webp"
+		},
+		{
+			"data": "@qutu-[57]",
+			"text": "qutu-57",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_57.webp"
+		},
+		{
+			"data": "@qutu-[58]",
+			"text": "qutu-58",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_58.webp"
+		},
+		{
+			"data": "@qutu-[59]",
+			"text": "qutu-59",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_59.webp"
+		},
+		{
+			"data": "@qutu-[60]",
+			"text": "qutu-60",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_60.webp"
+		},
+		{
+			"data": "@qutu-[61]",
+			"text": "qutu-61",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_61.webp"
+		},
+		{
+			"data": "@qutu-[62]",
+			"text": "qutu-62",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_62.webp"
+		},
+		{
+			"data": "@qutu-[63]",
+			"text": "qutu-63",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_63.webp"
+		},
+		{
+			"data": "@qutu-[64]",
+			"text": "qutu-64",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_64.webp"
+		},
+		{
+			"data": "@qutu-[65]",
+			"text": "qutu-65",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_65.webp"
+		},
+		{
+			"data": "@qutu-[66]",
+			"text": "qutu-66",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_66.webp"
+		},
+		{
+			"data": "@qutu-[67]",
+			"text": "qutu-67",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_67.webp"
+		},
+		{
+			"data": "@qutu-[68]",
+			"text": "qutu-68",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_68.webp"
+		},
+		{
+			"data": "@qutu-[69]",
+			"text": "qutu-69",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_69.webp"
+		},
+		{
+			"data": "@qutu-[70]",
+			"text": "qutu-70",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_70.webp"
+		},
+		{
+			"data": "@qutu-[71]",
+			"text": "qutu-71",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_71.webp"
+		},
+		{
+			"data": "@qutu-[72]",
+			"text": "qutu-72",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_72.webp"
+		},
+		{
+			"data": "@qutu-[73]",
+			"text": "qutu-73",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qutu/qutu_73.webp"
+		}
+	],
+	"B脸": [
+	    {
+			"data": "@bilibili_face-2020",
+			"text": "bilibili_face-2020",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/2020.png"
+		},
+		{
+			"data": "@bilibili_face-doge",
+			"text": "bilibili_face-doge",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/doge.png"
+		},
+		{
+			"data": "@bilibili_face-ok",
+			"text": "bilibili_face-ok",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/ok.png"
+		},
+		{
+			"data": "@bilibili_face-yes",
+			"text": "bilibili_face-yes",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/yes.png"
+		},
+		{
+			"data": "@bilibili_face-偷笑",
+			"text": "bilibili_face-偷笑",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/偷笑.png"
+		},
+		{
+			"data": "@bilibili_face-傲娇",
+			"text": "bilibili_face-傲娇",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/傲娇.png"
+		},
+		{
+			"data": "@bilibili_face-再见",
+			"text": "bilibili_face-再见",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/再见.png"
+		},
+		{
+			"data": "@bilibili_face-冷",
+			"text": "bilibili_face-冷",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/冷.png"
+		},
+		{
+			"data": "@bilibili_face-口罩",
+			"text": "bilibili_face-口罩",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/口罩.png"
+		},
+		{
+			"data": "@bilibili_face-可乐",
+			"text": "bilibili_face-可乐",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/可乐.png"
+		},
+		{
+			"data": "@bilibili_face-吃瓜",
+			"text": "bilibili_face-吃瓜",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/吃瓜.png"
+		},
+		{
+			"data": "@bilibili_face-吐",
+			"text": "bilibili_face-吐",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/吐.png"
+		},
+		{
+			"data": "@bilibili_face-吓",
+			"text": "bilibili_face-吓",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/吓.png"
+		},
+		{
+			"data": "@bilibili_face-呆",
+			"text": "bilibili_face-呆",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/呆.png"
+		},
+		{
+			"data": "@bilibili_face-呲牙",
+			"text": "bilibili_face-呲牙",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/呲牙.png"
+		},
+		{
+			"data": "@bilibili_face-哈欠",
+			"text": "bilibili_face-哈欠",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/哈欠.png"
+		},
+		{
+			"data": "@bilibili_face-响指",
+			"text": "bilibili_face-响指",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/响指.png"
+		},
+		{
+			"data": "@bilibili_face-喜极而泣",
+			"text": "bilibili_face-喜极而泣",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/喜极而泣.png"
+		},
+		{
+			"data": "@bilibili_face-喜欢",
+			"text": "bilibili_face-喜欢",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/喜欢.png"
+		},
+		{
+			"data": "@bilibili_face-嘘声",
+			"text": "bilibili_face-嘘声",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/嘘声.png"
+		},
+		{
+			"data": "@bilibili_face-囧",
+			"text": "bilibili_face-囧",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/囧.png"
+		},
+		{
+			"data": "@bilibili_face-大哭",
+			"text": "bilibili_face-大哭",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/大哭.png"
+		},
+		{
+			"data": "@bilibili_face-大笑",
+			"text": "bilibili_face-大笑",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/大笑.png"
+		},
+		{
+			"data": "@bilibili_face-大闹",
+			"text": "bilibili_face-大闹",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/大闹.png"
+		},
+		{
+			"data": "@bilibili_face-奋斗",
+			"text": "bilibili_face-奋斗",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/奋斗.png"
+		},
+		{
+			"data": "@bilibili_face-奸笑",
+			"text": "bilibili_face-奸笑",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/奸笑.png"
+		},
+		{
+			"data": "@bilibili_face-妙啊",
+			"text": "bilibili_face-妙啊",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/妙啊.png"
+		},
+		{
+			"data": "@bilibili_face-委屈",
+			"text": "bilibili_face-委屈",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/委屈.png"
+		},
+		{
+			"data": "@bilibili_face-嫌弃",
+			"text": "bilibili_face-嫌弃",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/嫌弃.png"
+		},
+		{
+			"data": "@bilibili_face-害羞",
+			"text": "bilibili_face-害羞",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/害羞.png"
+		},
+		{
+			"data": "@bilibili_face-寒冷",
+			"text": "bilibili_face-寒冷",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/寒冷.png"
+		},
+		{
+			"data": "@bilibili_face-尴尬",
+			"text": "bilibili_face-尴尬",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/尴尬.png"
+		},
+		{
+			"data": "@bilibili_face-开心",
+			"text": "bilibili_face-开心",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/开心.png"
+		},
+		{
+			"data": "@bilibili_face-弹弹堂",
+			"text": "bilibili_face-弹弹堂",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/弹弹堂.png"
+		},
+		{
+			"data": "@bilibili_face-微微笑",
+			"text": "bilibili_face-微微笑",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/微微笑.png"
+		},
+		{
+			"data": "@bilibili_face-微笑",
+			"text": "bilibili_face-微笑",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/微笑.png"
+		},
+		{
+			"data": "@bilibili_face-思考",
+			"text": "bilibili_face-思考",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/思考.png"
+		},
+		{
+			"data": "@bilibili_face-惊呆了",
+			"text": "bilibili_face-惊呆了",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/惊呆了.png"
+		},
+		{
+			"data": "@bilibili_face-惊喜",
+			"text": "bilibili_face-惊喜",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/惊喜.png"
+		},
+		{
+			"data": "@bilibili_face-惊讶",
+			"text": "bilibili_face-惊讶",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/惊讶.png"
+		},
+		{
+			"data": "@bilibili_face-打call",
+			"text": "bilibili_face-打call",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/打call.png"
+		},
+		{
+			"data": "@bilibili_face-抠鼻",
+			"text": "bilibili_face-抠鼻",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/抠鼻.png"
+		},
+		{
+			"data": "@bilibili_face-抱拳",
+			"text": "bilibili_face-抱拳",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/抱拳.png"
+		},
+		{
+			"data": "@bilibili_face-拜托",
+			"text": "bilibili_face-拜托",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/拜托.png"
+		},
+		{
+			"data": "@bilibili_face-拥抱",
+			"text": "bilibili_face-拥抱",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/拥抱.png"
+		},
+		{
+			"data": "@bilibili_face-捂脸",
+			"text": "bilibili_face-捂脸",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/捂脸.png"
+		},
+		{
+			"data": "@bilibili_face-撇嘴",
+			"text": "bilibili_face-撇嘴",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/撇嘴.png"
+		},
+		{
+			"data": "@bilibili_face-支持",
+			"text": "bilibili_face-支持",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/支持.png"
+		},
+		{
+			"data": "@bilibili_face-无奈",
+			"text": "bilibili_face-无奈",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/无奈.png"
+		},
+		{
+			"data": "@bilibili_face-无语",
+			"text": "bilibili_face-无语",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/无语.png"
+		},
+		{
+			"data": "@bilibili_face-期待",
+			"text": "bilibili_face-期待",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/期待.png"
+		},
+		{
+			"data": "@bilibili_face-武汉加油",
+			"text": "bilibili_face-武汉加油",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/武汉加油.png"
+		},
+		{
+			"data": "@bilibili_face-滑稽",
+			"text": "bilibili_face-滑稽",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/滑稽.png"
+		},
+		{
+			"data": "@bilibili_face-灵魂出窍",
+			"text": "bilibili_face-灵魂出窍",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/灵魂出窍.png"
+		},
+		{
+			"data": "@bilibili_face-点赞",
+			"text": "bilibili_face-点赞",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/点赞.png"
+		},
+		{
+			"data": "@bilibili_face-爱心",
+			"text": "bilibili_face-爱心",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/爱心.png"
+		},
+		{
+			"data": "@bilibili_face-生气",
+			"text": "bilibili_face-生气",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/生气.png"
+		},
+		{
+			"data": "@bilibili_face-生病",
+			"text": "bilibili_face-生病",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/生病.png"
+		},
+		{
+			"data": "@bilibili_face-画风突变",
+			"text": "bilibili_face-画风突变",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/画风突变.png"
+		},
+		{
+			"data": "@bilibili_face-疑问",
+			"text": "bilibili_face-疑问",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/疑问.png"
+		},
+		{
+			"data": "@bilibili_face-疼",
+			"text": "bilibili_face-疼",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/疼.png"
+		},
+		{
+			"data": "@bilibili_face-白眼",
+			"text": "bilibili_face-白眼",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/白眼.png"
+		},
+		{
+			"data": "@bilibili_face-福",
+			"text": "bilibili_face-福",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/福.png"
+		},
+		{
+			"data": "@bilibili_face-福到了",
+			"text": "bilibili_face-福到了",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/福到了.png"
+		},
+		{
+			"data": "@bilibili_face-笑哭",
+			"text": "bilibili_face-笑哭",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/笑哭.png"
+		},
+		{
+			"data": "@bilibili_face-肌肉",
+			"text": "bilibili_face-肌肉",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/肌肉.png"
+		},
+		{
+			"data": "@bilibili_face-脸红",
+			"text": "bilibili_face-脸红",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/脸红.png"
+		},
+		{
+			"data": "@bilibili_face-调皮",
+			"text": "bilibili_face-调皮",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/调皮.png"
+		},
+		{
+			"data": "@bilibili_face-跪",
+			"text": "bilibili_face-跪",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/跪.png"
+		},
+		{
+			"data": "@bilibili_face-酷",
+			"text": "bilibili_face-酷",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/酷.png"
+		},
+		{
+			"data": "@bilibili_face-酸了",
+			"text": "bilibili_face-酸了",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/酸了.png"
+		},
+		{
+			"data": "@bilibili_face-锦鲤",
+			"text": "bilibili_face-锦鲤",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/锦鲤.png"
+		},
+		{
+			"data": "@bilibili_face-阴险",
+			"text": "bilibili_face-阴险",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/阴险.png"
+		},
+		{
+			"data": "@bilibili_face-难过",
+			"text": "bilibili_face-难过",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/难过.png"
+		},
+		{
+			"data": "@bilibili_face-鸡腿",
+			"text": "bilibili_face-鸡腿",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/鸡腿.png"
+		},
+		{
+			"data": "@bilibili_face-黑洞",
+			"text": "bilibili_face-黑洞",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/bilibili_face/黑洞.png"
+		}
+	],
+	"QQ": [
+	    {
+			"text": "QQ-50",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/142.gif",
+			"data": "@qq(50)"
+		},
+		{
+			"text": "QQ-51",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/143.gif",
+			"data": "@qq(51)"
+		},
+		{
+			"text": "QQ-52",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/144.gif",
+			"data": "@qq(52)"
+		},
+		{
+			"text": "QQ-53",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/145.gif",
+			"data": "@qq(53)"
+		},
+		{
+			"text": "QQ-54",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/146.gif",
+			"data": "@qq(54)"
+		},
+		{
+			"text": "QQ-55",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/147.gif",
+			"data": "@qq(55)"
+		},
+		{
+			"text": "QQ-56",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/148.gif",
+			"data": "@qq(56)"
+		},
+		{
+			"text": "QQ-57",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/149.gif",
+			"data": "@qq(57)"
+		},
+		{
+			"text": "QQ-58",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/15.gif",
+			"data": "@qq(58)"
+		},
+		{
+			"text": "QQ-59",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/150.gif",
+			"data": "@qq(59)"
+		},
+		{
+			"text": "QQ-60",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/151.gif",
+			"data": "@qq(60)"
+		},
+		{
+			"text": "QQ-61",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/152.gif",
+			"data": "@qq(61)"
+		},
+		{
+			"text": "QQ-62",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/153.gif",
+			"data": "@qq(62)"
+		},
+		{
+			"text": "QQ-63",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/154.gif",
+			"data": "@qq(63)"
+		},
+		{
+			"text": "QQ-64",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/155.gif",
+			"data": "@qq(64)"
+		},
+		{
+			"text": "QQ-65",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/156.gif",
+			"data": "@qq(65)"
+		},
+		{
+			"text": "QQ-66",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/157.gif",
+			"data": "@qq(66)"
+		},
+		{
+			"text": "QQ-67",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/158.gif",
+			"data": "@qq(67)"
+		},
+		{
+			"text": "QQ-68",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/159.gif",
+			"data": "@qq(68)"
+		},
+		{
+			"text": "QQ-69",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/16.gif",
+			"data": "@qq(69)"
+		},
+		{
+			"text": "QQ-70",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/160.gif",
+			"data": "@qq(70)"
+		},
+		{
+			"text": "QQ-71",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/161.gif",
+			"data": "@qq(71)"
+		},
+		{
+			"text": "QQ-72",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/162.gif",
+			"data": "@qq(72)"
+		},
+		{
+			"text": "QQ-73",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/163.gif",
+			"data": "@qq(73)"
+		},
+		{
+			"text": "QQ-74",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/164.gif",
+			"data": "@qq(74)"
+		},
+		{
+			"text": "QQ-75",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/165.gif",
+			"data": "@qq(75)"
+		},
+		{
+			"text": "QQ-76",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/166.gif",
+			"data": "@qq(76)"
+		},
+		{
+			"text": "QQ-77",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/167.gif",
+			"data": "@qq(77)"
+		},
+		{
+			"text": "QQ-78",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/168.gif",
+			"data": "@qq(78)"
+		},
+		{
+			"text": "QQ-79",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/169.gif",
+			"data": "@qq(79)"
+		},
+		{
+			"text": "QQ-80",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/17.gif",
+			"data": "@qq(80)"
+		},
+		{
+			"text": "QQ-81",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/170.gif",
+			"data": "@qq(81)"
+		},
+		{
+			"text": "QQ-82",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/171.gif",
+			"data": "@qq(82)"
+		},
+		{
+			"text": "QQ-83",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/172.gif",
+			"data": "@qq(83)"
+		},
+		{
+			"text": "QQ-84",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/173.gif",
+			"data": "@qq(84)"
+		},
+		{
+			"text": "QQ-85",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/174.gif",
+			"data": "@qq(85)"
+		},
+		{
+			"text": "QQ-86",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/175.gif",
+			"data": "@qq(86)"
+		},
+		{
+			"text": "QQ-87",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/176.gif",
+			"data": "@qq(87)"
+		},
+		{
+			"text": "QQ-88",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/177.gif",
+			"data": "@qq(88)"
+		},
+		{
+			"text": "QQ-89",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/178.gif",
+			"data": "@qq(89)"
+		},
+		{
+			"text": "QQ-90",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/179.gif",
+			"data": "@qq(90)"
+		},
+		{
+			"text": "QQ-91",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/18.gif",
+			"data": "@qq(91)"
+		},
+		{
+			"text": "QQ-92",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/180.gif",
+			"data": "@qq(92)"
+		},
+		{
+			"text": "QQ-93",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/181.gif",
+			"data": "@qq(93)"
+		},
+		{
+			"text": "QQ-94",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/182.gif",
+			"data": "@qq(94)"
+		},
+		{
+			"text": "QQ-95",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/183.gif",
+			"data": "@qq(95)"
+		},
+		{
+			"text": "QQ-96",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/184.gif",
+			"data": "@qq(96)"
+		},
+		{
+			"text": "QQ-97",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/185.gif",
+			"data": "@qq(97)"
+		},
+		{
+			"text": "QQ-98",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/186.gif",
+			"data": "@qq(98)"
+		},
+		{
+			"text": "QQ-99",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/187.gif",
+			"data": "@qq(99)"
+		},
+		{
+			"text": "QQ-100",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/188.gif",
+			"data": "@qq(100)"
+		},
+		{
+			"text": "QQ-101",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/189.gif",
+			"data": "@qq(101)"
+		},
+		{
+			"text": "QQ-102",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/19.gif",
+			"data": "@qq(102)"
+		},
+		{
+			"text": "QQ-103",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/190.gif",
+			"data": "@qq(103)"
+		},
+		{
+			"text": "QQ-104",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/191.gif",
+			"data": "@qq(104)"
+		},
+		{
+			"text": "QQ-105",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/192.gif",
+			"data": "@qq(105)"
+		},
+		{
+			"text": "QQ-106",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/193.gif",
+			"data": "@qq(106)"
+		},
+		{
+			"text": "QQ-107",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/194.gif",
+			"data": "@qq(107)"
+		},
+		{
+			"text": "QQ-108",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/195.gif",
+			"data": "@qq(108)"
+		},
+		{
+			"text": "QQ-109",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/196.gif",
+			"data": "@qq(109)"
+		},
+		{
+			"text": "QQ-110",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/197.gif",
+			"data": "@qq(110)"
+		},
+		{
+			"text": "QQ-111",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/198.gif",
+			"data": "@qq(111)"
+		},
+		{
+			"text": "QQ-112",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/199.gif",
+			"data": "@qq(112)"
+		},
+		{
+			"text": "QQ-113",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/2.gif",
+			"data": "@qq(113)"
+		},
+		{
+			"text": "QQ-114",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/20.gif",
+			"data": "@qq(114)"
+		},
+		{
+			"text": "QQ-115",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/200.gif",
+			"data": "@qq(115)"
+		},
+		{
+			"text": "QQ-116",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/201.gif",
+			"data": "@qq(116)"
+		},
+		{
+			"text": "QQ-117",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/202.gif",
+			"data": "@qq(117)"
+		},
+		{
+			"text": "QQ-118",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/203.gif",
+			"data": "@qq(118)"
+		},
+		{
+			"text": "QQ-119",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/204.gif",
+			"data": "@qq(119)"
+		},
+		{
+			"text": "QQ-120",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/205.gif",
+			"data": "@qq(120)"
+		},
+		{
+			"text": "QQ-121",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/206.gif",
+			"data": "@qq(121)"
+		},
+		{
+			"text": "QQ-122",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/207.gif",
+			"data": "@qq(122)"
+		},
+		{
+			"text": "QQ-123",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/21.gif",
+			"data": "@qq(123)"
+		},
+		{
+			"text": "QQ-124",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/22.gif",
+			"data": "@qq(124)"
+		},
+		{
+			"text": "QQ-125",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/23.gif",
+			"data": "@qq(125)"
+		},
+		{
+			"text": "QQ-126",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/24.gif",
+			"data": "@qq(126)"
+		},
+		{
+			"text": "QQ-127",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/25.gif",
+			"data": "@qq(127)"
+		},
+		{
+			"text": "QQ-128",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/26.gif",
+			"data": "@qq(128)"
+		},
+		{
+			"text": "QQ-129",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/27.gif",
+			"data": "@qq(129)"
+		},
+		{
+			"text": "QQ-130",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/28.gif",
+			"data": "@qq(130)"
+		},
+		{
+			"text": "QQ-131",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/29.gif",
+			"data": "@qq(131)"
+		},
+		{
+			"text": "QQ-132",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/3.gif",
+			"data": "@qq(132)"
+		},
+		{
+			"text": "QQ-133",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/30.gif",
+			"data": "@qq(133)"
+		},
+		{
+			"text": "QQ-134",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/31.gif",
+			"data": "@qq(134)"
+		},
+		{
+			"text": "QQ-135",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/32.gif",
+			"data": "@qq(135)"
+		},
+		{
+			"text": "QQ-136",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/33.gif",
+			"data": "@qq(136)"
+		},
+		{
+			"text": "QQ-137",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/34.gif",
+			"data": "@qq(137)"
+		},
+		{
+			"text": "QQ-138",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/35.gif",
+			"data": "@qq(138)"
+		},
+		{
+			"text": "QQ-139",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/36.gif",
+			"data": "@qq(139)"
+		},
+		{
+			"text": "QQ-140",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/37.gif",
+			"data": "@qq(140)"
+		},
+		{
+			"text": "QQ-141",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/38.gif",
+			"data": "@qq(141)"
+		},
+		{
+			"text": "QQ-142",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/39.gif",
+			"data": "@qq(142)"
+		},
+		{
+			"text": "QQ-143",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/4.gif",
+			"data": "@qq(143)"
+		},
+		{
+			"text": "QQ-144",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/40.gif",
+			"data": "@qq(144)"
+		},
+		{
+			"text": "QQ-145",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/41.gif",
+			"data": "@qq(145)"
+		},
+		{
+			"text": "QQ-146",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/42.gif",
+			"data": "@qq(146)"
+		},
+		{
+			"text": "QQ-147",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/43.gif",
+			"data": "@qq(147)"
+		},
+		{
+			"text": "QQ-148",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/44.gif",
+			"data": "@qq(148)"
+		},
+		{
+			"text": "QQ-149",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/45.gif",
+			"data": "@qq(149)"
+		},
+		{
+			"text": "QQ-150",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/46.gif",
+			"data": "@qq(150)"
+		},
+		{
+			"text": "QQ-151",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/47.gif",
+			"data": "@qq(151)"
+		},
+		{
+			"text": "QQ-152",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/48.gif",
+			"data": "@qq(152)"
+		},
+		{
+			"text": "QQ-153",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/49.gif",
+			"data": "@qq(153)"
+		},
+		{
+			"text": "QQ-154",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/5.gif",
+			"data": "@qq(154)"
+		},
+		{
+			"text": "QQ-155",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/50.gif",
+			"data": "@qq(155)"
+		},
+		{
+			"text": "QQ-156",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/51.gif",
+			"data": "@qq(156)"
+		},
+		{
+			"text": "QQ-157",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/52.gif",
+			"data": "@qq(157)"
+		},
+		{
+			"text": "QQ-158",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/53.gif",
+			"data": "@qq(158)"
+		},
+		{
+			"text": "QQ-159",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/54.gif",
+			"data": "@qq(159)"
+		},
+		{
+			"text": "QQ-160",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/55.gif",
+			"data": "@qq(160)"
+		},
+		{
+			"text": "QQ-161",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/56.gif",
+			"data": "@qq(161)"
+		},
+		{
+			"text": "QQ-162",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/57.gif",
+			"data": "@qq(162)"
+		},
+		{
+			"text": "QQ-163",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/58.gif",
+			"data": "@qq(163)"
+		},
+		{
+			"text": "QQ-164",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/59.gif",
+			"data": "@qq(164)"
+		},
+		{
+			"text": "QQ-165",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/6.gif",
+			"data": "@qq(165)"
+		},
+		{
+			"text": "QQ-166",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/60.gif",
+			"data": "@qq(166)"
+		},
+		{
+			"text": "QQ-167",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/61.gif",
+			"data": "@qq(167)"
+		},
+		{
+			"text": "QQ-168",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/62.gif",
+			"data": "@qq(168)"
+		},
+		{
+			"text": "QQ-169",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/63.gif",
+			"data": "@qq(169)"
+		},
+		{
+			"text": "QQ-170",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/64.gif",
+			"data": "@qq(170)"
+		},
+		{
+			"text": "QQ-171",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/65.gif",
+			"data": "@qq(171)"
+		},
+		{
+			"text": "QQ-172",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/66.gif",
+			"data": "@qq(172)"
+		},
+		{
+			"text": "QQ-173",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/67.gif",
+			"data": "@qq(173)"
+		},
+		{
+			"text": "QQ-174",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/68.gif",
+			"data": "@qq(174)"
+		},
+		{
+			"text": "QQ-175",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/69.gif",
+			"data": "@qq(175)"
+		},
+		{
+			"text": "QQ-176",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/7.gif",
+			"data": "@qq(176)"
+		},
+		{
+			"text": "QQ-177",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/70.gif",
+			"data": "@qq(177)"
+		},
+		{
+			"text": "QQ-178",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/71.gif",
+			"data": "@qq(178)"
+		},
+		{
+			"text": "QQ-179",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/72.gif",
+			"data": "@qq(179)"
+		},
+		{
+			"text": "QQ-180",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/73.gif",
+			"data": "@qq(180)"
+		},
+		{
+			"text": "QQ-181",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/74.gif",
+			"data": "@qq(181)"
+		},
+		{
+			"text": "QQ-182",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/75.gif",
+			"data": "@qq(182)"
+		},
+		{
+			"text": "QQ-183",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/76.gif",
+			"data": "@qq(183)"
+		},
+		{
+			"text": "QQ-184",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/77.gif",
+			"data": "@qq(184)"
+		},
+		{
+			"text": "QQ-185",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/78.gif",
+			"data": "@qq(185)"
+		},
+		{
+			"text": "QQ-186",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/79.gif",
+			"data": "@qq(186)"
+		},
+		{
+			"text": "QQ-187",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/8.gif",
+			"data": "@qq(187)"
+		},
+		{
+			"text": "QQ-188",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/80.gif",
+			"data": "@qq(188)"
+		},
+		{
+			"text": "QQ-189",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/81.gif",
+			"data": "@qq(189)"
+		},
+		{
+			"text": "QQ-190",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/82.gif",
+			"data": "@qq(190)"
+		},
+		{
+			"text": "QQ-191",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/83.gif",
+			"data": "@qq(191)"
+		},
+		{
+			"text": "QQ-192",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/84.gif",
+			"data": "@qq(192)"
+		},
+		{
+			"text": "QQ-193",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/85.gif",
+			"data": "@qq(193)"
+		},
+		{
+			"text": "QQ-194",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/86.gif",
+			"data": "@qq(194)"
+		},
+		{
+			"text": "QQ-195",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/87.gif",
+			"data": "@qq(195)"
+		},
+		{
+			"text": "QQ-196",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/88.gif",
+			"data": "@qq(196)"
+		},
+		{
+			"text": "QQ-197",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/89.gif",
+			"data": "@qq(197)"
+		},
+		{
+			"text": "QQ-198",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/9.gif",
+			"data": "@qq(198)"
+		},
+		{
+			"text": "QQ-199",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/90.gif",
+			"data": "@qq(199)"
+		},
+		{
+			"text": "QQ-200",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/91.gif",
+			"data": "@qq(200)"
+		},
+		{
+			"text": "QQ-201",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/92.gif",
+			"data": "@qq(201)"
+		},
+		{
+			"text": "QQ-202",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/93.gif",
+			"data": "@qq(202)"
+		},
+		{
+			"text": "QQ-203",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/94.gif",
+			"data": "@qq(203)"
+		},
+		{
+			"text": "QQ-204",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/95.gif",
+			"data": "@qq(204)"
+		},
+		{
+			"text": "QQ-205",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/96.gif",
+			"data": "@qq(205)"
+		},
+		{
+			"text": "QQ-206",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/97.gif",
+			"data": "@qq(206)"
+		},
+		{
+			"text": "QQ-207",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/98.gif",
+			"data": "@qq(207)"
+		},
+		{
+			"text": "QQ-208",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/99.gif",
+			"data": "@qq(208)"
+		},
+		{
+			"text": "QQ-209",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/不你不想.gif",
+			"data": "@qq(209)"
+		},
+		{
+			"text": "QQ-210",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/哇哦.gif",
+			"data": "@qq(210)"
+		},
+		{
+			"text": "QQ-211",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/哦.gif",
+			"data": "@qq(211)"
+		},
+		{
+			"text": "QQ-212",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/打call.gif",
+			"data": "@qq(212)"
+		},
+		{
+			"text": "QQ-213",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/打脸.gif",
+			"data": "@qq(213)"
+		},
+		{
+			"text": "QQ-214",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/摸鱼.gif",
+			"data": "@qq(214)"
+		},
+		{
+			"text": "QQ-215",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/敬礼.gif",
+			"data": "@qq(215)"
+		},
+		{
+			"text": "QQ-216",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/无眼笑.gif",
+			"data": "@qq(216)"
+		},
+		{
+			"text": "QQ-217",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/比心.gif",
+			"data": "@qq(217)"
+		},
+		{
+			"text": "QQ-218",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/没眼看.gif",
+			"data": "@qq(218)"
+		},
+		{
+			"text": "QQ-219",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/滚.gif",
+			"data": "@qq(219)"
+		},
+		{
+			"text": "QQ-220",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/狂笑.gif",
+			"data": "@qq(220)"
+		},
+		{
+			"text": "QQ-221",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/睁眼.gif",
+			"data": "@qq(221)"
+		},
+		{
+			"text": "QQ-222",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/考虑中.gif",
+			"data": "@qq(222)"
+		},
+		{
+			"text": "QQ-223",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/面无表情.gif",
+			"data": "@qq(223)"
+		},
+		{
+			"text": "QQ-224",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/魔鬼笑.gif",
+			"data": "@qq(224)"
+		},
+		{
+			"text": "QQ-1",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/0.gif",
+			"data": "@qq(1)"
+		},
+		{
+			"text": "QQ-2",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/1.gif",
+			"data": "@qq(2)"
+		},
+		{
+			"text": "QQ-3",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/10.gif",
+			"data": "@qq(3)"
+		},
+		{
+			"text": "QQ-4",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/100.gif",
+			"data": "@qq(4)"
+		},
+		{
+			"text": "QQ-5",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/101.gif",
+			"data": "@qq(5)"
+		},
+		{
+			"text": "QQ-6",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/102.gif",
+			"data": "@qq(6)"
+		},
+		{
+			"text": "QQ-7",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/103.gif",
+			"data": "@qq(7)"
+		},
+		{
+			"text": "QQ-8",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/104.gif",
+			"data": "@qq(8)"
+		},
+		{
+			"text": "QQ-9",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/105.gif",
+			"data": "@qq(9)"
+		},
+		{
+			"text": "QQ-10",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/106.gif",
+			"data": "@qq(20)"
+		},
+		{
+			"text": "QQ-11",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/107.gif",
+			"data": "@qq(21)"
+		},
+		{
+			"text": "QQ-12",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/108.gif",
+			"data": "@qq(22)"
+		},
+		{
+			"text": "QQ-13",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/109.gif",
+			"data": "@qq(23)"
+		},
+		{
+			"text": "QQ-14",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/11.gif",
+			"data": "@qq(24)"
+		},
+		{
+			"text": "QQ-15",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/110.gif",
+			"data": "@qq(25)"
+		},
+		{
+			"text": "QQ-16",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/111.gif",
+			"data": "@qq(26)"
+		},
+		{
+			"text": "QQ-17",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/112.gif",
+			"data": "@qq(27)"
+		},
+		{
+			"text": "QQ-18",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/113.gif",
+			"data": "@qq(28)"
+		},
+		{
+			"text": "QQ-19",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/114.gif",
+			"data": "@qq(29)"
+		},
+		{
+			"text": "QQ-20",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/115.gif",
+			"data": "@qq(20)"
+		},
+		{
+			"text": "QQ-21",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/116.gif",
+			"data": "@qq(21)"
+		},
+		{
+			"text": "QQ-22",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/117.gif",
+			"data": "@qq(22)"
+		},
+		{
+			"text": "QQ-23",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/118.gif",
+			"data": "@qq(23)"
+		},
+		{
+			"text": "QQ-24",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/119.gif",
+			"data": "@qq(24)"
+		},
+		{
+			"text": "QQ-25",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/12.gif",
+			"data": "@qq(25)"
+		},
+		{
+			"text": "QQ-26",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/120.gif",
+			"data": "@qq(26)"
+		},
+		{
+			"text": "QQ-27",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/121.gif",
+			"data": "@qq(27)"
+		},
+		{
+			"text": "QQ-28",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/122.gif",
+			"data": "@qq(28)"
+		},
+		{
+			"text": "QQ-29",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/123.gif",
+			"data": "@qq(29)"
+		},
+		{
+			"text": "QQ-30",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/124.gif",
+			"data": "@qq(30)"
+		},
+		{
+			"text": "QQ-31",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/125.gif",
+			"data": "@qq(31)"
+		},
+		{
+			"text": "QQ-32",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/126.gif",
+			"data": "@qq(32)"
+		},
+		{
+			"text": "QQ-33",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/127.gif",
+			"data": "@qq(33)"
+		},
+		{
+			"text": "QQ-34",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/128.gif",
+			"data": "@qq(34)"
+		},
+		{
+			"text": "QQ-35",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/129.gif",
+			"data": "@qq(35)"
+		},
+		{
+			"text": "QQ-36",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/13.gif",
+			"data": "@qq(36)"
+		},
+		{
+			"text": "QQ-37",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/130.gif",
+			"data": "@qq(37)"
+		},
+		{
+			"text": "QQ-38",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/131.gif",
+			"data": "@qq(38)"
+		},
+		{
+			"text": "QQ-39",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/132.gif",
+			"data": "@qq(39)"
+		},
+		{
+			"text": "QQ-40",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/133.gif",
+			"data": "@qq(40)"
+		},
+		{
+			"text": "QQ-41",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/134.gif",
+			"data": "@qq(41)"
+		},
+		{
+			"text": "QQ-42",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/135.gif",
+			"data": "@qq(42)"
+		},
+		{
+			"text": "QQ-43",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/136.gif",
+			"data": "@qq(43)"
+		},
+		{
+			"text": "QQ-44",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/137.gif",
+			"data": "@qq(44)"
+		},
+		{
+			"text": "QQ-45",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/138.gif",
+			"data": "@qq(45)"
+		},
+		{
+			"text": "QQ-46",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/139.gif",
+			"data": "@qq(46)"
+		},
+		{
+			"text": "QQ-47",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/14.gif",
+			"data": "@qq(47)"
+		},
+		{
+			"text": "QQ-48",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/140.gif",
+			"data": "@qq(48)"
+		},
+		{
+			"text": "QQ-49",
+			"icon": "/usr/themes/0Ptaio/src/owo/biaoqing/qq/141.gif",
+			"data": "@qq(49)"
+		}
+	]
+}
